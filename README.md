@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Python** – Core language
 - **Streamlit** – Web application framework
